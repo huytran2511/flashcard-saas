@@ -1,13 +1,7 @@
 'use client'
 
 import { useState } from 'react'
-import {
-  Container,
-  TextField,
-  Button,
-  Typography,
-  Box,
-} from '@mui/material'
+import { Container, TextField, Button, Typography, Box } from '@mui/material'
 
 export default function Generate() {
   const [text, setText] = useState('')
