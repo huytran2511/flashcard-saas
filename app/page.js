@@ -1,4 +1,3 @@
-// app/page.js
 import { AppBar, Toolbar, Typography, Button, Box, Grid } from '@mui/material'
 import { SignedIn, SignedOut, UserButton } from '@clerk/clerk-react'
 import { useState } from 'react'
